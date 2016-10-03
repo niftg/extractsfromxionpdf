@@ -1,0 +1,1 @@
+[PDFMiner](http://www.unixuser.org/~euske/python/pdfminer/)の[サンプルプログラム](http://www.unixuser.org/~euske/python/pdfminer/programming.html#basic)に`pdf2txt.py`から拔き出したコードを合成したスクリプトで以てページ毎にテキスト抽出結果をファイル出力
